@@ -1,0 +1,1 @@
+[('woman', 'femme'), ('man', 'homme'), ('school', 'école'), ('student', 'étudiant'), ('dog', 'chien')]
